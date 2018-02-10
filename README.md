@@ -1,8 +1,2 @@
-# gatsby-theme-kit
-Use theme template kit to develop themes for [GatsbyJS][gatsby]
-
-## Features
-1. Blog post listing with previews for each blog post
-
-[gatsby]: https://www.gatsbyjs.org/
-[gatsby-remark-images]: https://www.gatsbyjs.org/docs/packages/gatsby-remark-images/
+# gatsby-demo-plexer
+The companion theme create as part of the Gatsby Manor theme development [tutorial](https://www.gatsbymanor.com/docs/tutorials/theme-development/)
